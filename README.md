@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 ResumeScreen AI
 
 > AI-Powered Resume Screening Agent for Intelligent Candidate Evaluation
@@ -317,3 +318,6 @@ LinkedIn: https://www.linkedin.com/in/mehakharlapur
 This project was developed as part of the **Rooman Technologies – Junior AI Research Associate 24-Hour AI Agent Challenge**.
 
 It is intended for educational and demonstration purposes.
+=======
+# resume-screening-agent
+>>>>>>> a28e235b53d9d410a8e75ef66458bca85b18d969
