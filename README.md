@@ -123,7 +123,6 @@ VITE_OPENAI_API_KEY=your_api_key_here
 
 If using another provider (Groq, OpenRouter, Anthropic, etc.), update the environment variable accordingly.
 
-> Do **not** commit your `.env` file to GitHub.
 
 ---
 
