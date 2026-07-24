@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🚀 ResumeScreen AI
 
 > AI-Powered Resume Screening Agent for Intelligent Candidate Evaluation
